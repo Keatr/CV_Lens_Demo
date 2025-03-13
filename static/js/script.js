@@ -1,18 +1,15 @@
 document.getElementById('uploadForm').addEventListener('submit', async (e) => {
   
   e.preventDefault();
-  
+    
   const formData = new FormData(e.target);
   const file = formData.get('file');
   const task = formData.get('task');
   const resultDiv = document.getElementById('result');
   const loader = document.createElement('div');
-  const previewImg = document.getElementById('preview');
-
   
-  // Reset UI
+  // Reset UI (KHÔNG reset preview)
   resultDiv.innerHTML = '';
-  previewImg.src = '#';
   loader.className = 'loader';
   resultDiv.appendChild(loader);
   loader.style.display = 'block';
@@ -41,14 +38,14 @@ document.getElementById('uploadForm').addEventListener('submit', async (e) => {
 
       // Hiển thị kết quả
       if (data.result_path) {
-          const img = document.createElement('img');
-          img.src = `${data.result_path}?t=${Date.now()}`; // Cache busting
-          img.alt = 'Processed Image';
-          img.style.maxWidth = '100%';
-          img.onerror = () => {
-              resultDiv.innerHTML = `<p style="color: red;">Lỗi tải ảnh kết quả</p>`;
-          };
-          resultDiv.appendChild(img);
+        const img = document.createElement('img');
+        img.src = `${data.result_path}?t=${Date.now()}`; // Cache busting
+        img.alt = 'Processed Image';
+        img.style.maxWidth = '100%';
+        img.onerror = () => {
+            resultDiv.innerHTML = `<p style="color: red;">Lỗi tải ảnh kết quả</p>`;
+        };
+        resultDiv.appendChild(img);
           
       } else if (data.age !== undefined) {
           const translations = {

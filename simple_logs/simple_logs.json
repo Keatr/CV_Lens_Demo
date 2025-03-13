@@ -1,0 +1,1395 @@
+[
+  {
+    "timestamp": "2025-03-14 04:37:00",
+    "task": "face_analysis",
+    "data": {
+      "age": 30,
+      "gender": "Man",
+      "emotion": "angry",
+      "processing_time": 4.780371
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:37:05",
+    "task": "face_analysis",
+    "data": {
+      "age": 32,
+      "gender": "Woman",
+      "emotion": "sad",
+      "processing_time": 1.298665
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:37:10",
+    "task": "face_analysis",
+    "data": {
+      "age": 30,
+      "gender": "Woman",
+      "emotion": "happy",
+      "processing_time": 2.219199
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:37:16",
+    "task": "face_analysis",
+    "data": {
+      "age": 30,
+      "gender": "Man",
+      "emotion": "angry",
+      "processing_time": 2.236184
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:37:22",
+    "task": "face_analysis",
+    "data": {
+      "age": 31,
+      "gender": "Woman",
+      "emotion": "neutral",
+      "processing_time": 3.288854
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:37:28",
+    "task": "face_analysis",
+    "data": {
+      "age": 36,
+      "gender": "Man",
+      "emotion": "sad",
+      "processing_time": 3.04073
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:37:36",
+    "task": "face_analysis",
+    "data": {
+      "age": 31,
+      "gender": "Man",
+      "emotion": "angry",
+      "processing_time": 6.59876
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:37:43",
+    "task": "face_analysis",
+    "data": {
+      "age": 24,
+      "gender": "Man",
+      "emotion": "sad",
+      "processing_time": 3.796576
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:37:53",
+    "task": "face_analysis",
+    "data": {
+      "age": 39,
+      "gender": "Man",
+      "emotion": "fear",
+      "processing_time": 7.223054
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:37:58",
+    "task": "face_analysis",
+    "data": {
+      "age": 24,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 1.80315
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:38:03",
+    "task": "face_analysis",
+    "data": {
+      "age": 33,
+      "gender": "Man",
+      "emotion": "sad",
+      "processing_time": 3.200297
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:38:09",
+    "task": "face_analysis",
+    "data": {
+      "age": 26,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 1.601592
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:38:15",
+    "task": "face_analysis",
+    "data": {
+      "age": 23,
+      "gender": "Man",
+      "emotion": "happy",
+      "processing_time": 2.527933
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:38:21",
+    "task": "face_analysis",
+    "data": {
+      "age": 38,
+      "gender": "Man",
+      "emotion": "angry",
+      "processing_time": 3.208293
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:38:25",
+    "task": "face_analysis",
+    "data": {
+      "age": 27,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 1.776691
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:38:32",
+    "task": "face_analysis",
+    "data": {
+      "age": 26,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 4.260066
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:38:37",
+    "task": "face_analysis",
+    "data": {
+      "age": 30,
+      "gender": "Man",
+      "emotion": "fear",
+      "processing_time": 2.583035
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:38:46",
+    "task": "face_analysis",
+    "data": {
+      "age": 29,
+      "gender": "Woman",
+      "emotion": "happy",
+      "processing_time": 5.202114
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:38:57",
+    "task": "face_analysis",
+    "data": {
+      "age": 27,
+      "gender": "Woman",
+      "emotion": "neutral",
+      "processing_time": 1.886002
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:39:02",
+    "task": "face_analysis",
+    "data": {
+      "age": 27,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 1.75801
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:39:10",
+    "task": "face_analysis",
+    "data": {
+      "age": 26,
+      "gender": "Woman",
+      "emotion": "fear",
+      "processing_time": 3.629432
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:39:15",
+    "task": "face_analysis",
+    "data": {
+      "age": 33,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 2.123667
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:39:20",
+    "task": "face_analysis",
+    "data": {
+      "age": 23,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 3.301056
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:39:28",
+    "task": "face_analysis",
+    "data": {
+      "age": 32,
+      "gender": "Woman",
+      "emotion": "happy",
+      "processing_time": 3.055487
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:39:34",
+    "task": "face_analysis",
+    "data": {
+      "age": 25,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 3.566644
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:39:43",
+    "task": "face_analysis",
+    "data": {
+      "age": 39,
+      "gender": "Man",
+      "emotion": "happy",
+      "processing_time": 5.923351
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:39:53",
+    "task": "face_analysis",
+    "data": {
+      "age": 26,
+      "gender": "Woman",
+      "emotion": "happy",
+      "processing_time": 4.687839
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:40:04",
+    "task": "face_analysis",
+    "data": {
+      "age": 26,
+      "gender": "Man",
+      "emotion": "sad",
+      "processing_time": 7.164745
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:40:10",
+    "task": "face_analysis",
+    "data": {
+      "age": 31,
+      "gender": "Man",
+      "emotion": "fear",
+      "processing_time": 2.756119
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:40:14",
+    "task": "face_analysis",
+    "data": {
+      "age": 31,
+      "gender": "Man",
+      "emotion": "happy",
+      "processing_time": 1.308276
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:40:21",
+    "task": "face_analysis",
+    "data": {
+      "age": 37,
+      "gender": "Man",
+      "emotion": "happy",
+      "processing_time": 3.062228
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:40:33",
+    "task": "face_analysis",
+    "data": {
+      "age": 36,
+      "gender": "Woman",
+      "emotion": "happy",
+      "processing_time": 5.823208
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:40:43",
+    "task": "face_analysis",
+    "data": {
+      "age": 20,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 5.888379
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:40:53",
+    "task": "face_analysis",
+    "data": {
+      "age": 34,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 3.513333
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:41:07",
+    "task": "face_analysis",
+    "data": {
+      "age": 22,
+      "gender": "Man",
+      "emotion": "sad",
+      "processing_time": 1.847599
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:41:15",
+    "task": "face_analysis",
+    "data": {
+      "age": 32,
+      "gender": "Woman",
+      "emotion": "angry",
+      "processing_time": 4.508305
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:41:23",
+    "task": "face_analysis",
+    "data": {
+      "age": 27,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 4.637833
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:41:31",
+    "task": "face_analysis",
+    "data": {
+      "age": 35,
+      "gender": "Man",
+      "emotion": "fear",
+      "processing_time": 3.750563
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:41:42",
+    "task": "face_analysis",
+    "data": {
+      "age": 28,
+      "gender": "Man",
+      "emotion": "happy",
+      "processing_time": 6.411273
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:41:50",
+    "task": "face_analysis",
+    "data": {
+      "age": 40,
+      "gender": "Man",
+      "emotion": "happy",
+      "processing_time": 5.456733
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:42:00",
+    "task": "face_analysis",
+    "data": {
+      "age": 34,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 4.837685
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:42:11",
+    "task": "face_analysis",
+    "data": {
+      "age": 44,
+      "gender": "Man",
+      "emotion": "surprise",
+      "processing_time": 1.119729
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:42:21",
+    "task": "face_analysis",
+    "data": {
+      "age": 30,
+      "gender": "Man",
+      "emotion": "angry",
+      "processing_time": 4.087014
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:42:32",
+    "task": "face_analysis",
+    "data": {
+      "age": 27,
+      "gender": "Man",
+      "emotion": "neutral",
+      "processing_time": 3.825458
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:42:43",
+    "task": "face_analysis",
+    "data": {
+      "age": 29,
+      "gender": "Man",
+      "emotion": "surprise",
+      "processing_time": 4.909263
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:42:52",
+    "task": "face_analysis",
+    "data": {
+      "age": 31,
+      "gender": "Man",
+      "emotion": "happy",
+      "processing_time": 5.125782
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:43:01",
+    "task": "face_analysis",
+    "data": {
+      "age": 28,
+      "gender": "Man",
+      "emotion": "fear",
+      "processing_time": 5.048532
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:43:12",
+    "task": "face_analysis",
+    "data": {
+      "age": 33,
+      "gender": "Man",
+      "emotion": "fear",
+      "processing_time": 5.360439
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:43:21",
+    "task": "face_analysis",
+    "data": {
+      "age": 35,
+      "gender": "Man",
+      "emotion": "happy",
+      "processing_time": 5.334151
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:10",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.6566347002983093,
+      "processing_time": 1.267208
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:28",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.7979456782341003,
+      "processing_time": 1.072693
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:31",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "boat"
+      ],
+      "avg_confidence": 0.722814679145813,
+      "processing_time": 0.137628
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:34",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.873183012008667,
+      "processing_time": 0.17105
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:37",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "potted plant"
+      ],
+      "avg_confidence": 0.6452850500742594,
+      "processing_time": 0.158572
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:40",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "umbrella",
+        "chair"
+      ],
+      "avg_confidence": 0.6803631565787576,
+      "processing_time": 0.161565
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:42",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "motorcycle"
+      ],
+      "avg_confidence": 0.7023909687995911,
+      "processing_time": 0.143628
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:44",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "handbag",
+        "potted plant",
+        "vase"
+      ],
+      "avg_confidence": 0.539018051964896,
+      "processing_time": 0.127659
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:47",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.9105413556098938,
+      "processing_time": 0.12167
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:49",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.9062824845314026,
+      "processing_time": 0.100731
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:53",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "potted plant"
+      ],
+      "avg_confidence": 0.6565179824829102,
+      "processing_time": 0.117683
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:44:56",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "potted plant"
+      ],
+      "avg_confidence": 0.7016286551952362,
+      "processing_time": 0.122667
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:00",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.9220684170722961,
+      "processing_time": 0.197504
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:02",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.9253199100494385,
+      "processing_time": 0.133277
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:05",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "handbag",
+        "tie"
+      ],
+      "avg_confidence": 0.47327717145284015,
+      "processing_time": 0.135635
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:07",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "tie"
+      ],
+      "avg_confidence": 0.7392861147721609,
+      "processing_time": 0.105715
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:11",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.6727678775787354,
+      "processing_time": 0.102079
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:15",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "car"
+      ],
+      "avg_confidence": 0.8656475146611532,
+      "processing_time": 0.132642
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:18",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "cat"
+      ],
+      "avg_confidence": 0.6283183395862579,
+      "processing_time": 0.132642
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:20",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.9309635162353516,
+      "processing_time": 0.120675
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:24",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.9253789186477661,
+      "processing_time": 0.149596
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:27",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "car"
+      ],
+      "avg_confidence": 0.4202753156423569,
+      "processing_time": 0.127654
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:30",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "potted plant",
+        "book"
+      ],
+      "avg_confidence": 0.5806427672505379,
+      "processing_time": 0.135633
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:33",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "umbrella"
+      ],
+      "avg_confidence": 0.6665722727775574,
+      "processing_time": 0.12167
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:37",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "book"
+      ],
+      "avg_confidence": 0.5597344487905502,
+      "processing_time": 0.158573
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:41",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.7985413074493408,
+      "processing_time": 0.152589
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:45",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "cake",
+        "couch",
+        "dining table",
+        "book",
+        "teddy bear"
+      ],
+      "avg_confidence": 0.4467382915318012,
+      "processing_time": 0.108706
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:45:49",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "laptop"
+      ],
+      "avg_confidence": 0.6371671557426453,
+      "processing_time": 0.142614
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:02",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "orange",
+        "carrot"
+      ],
+      "avg_confidence": 0.33784294724464414,
+      "processing_time": 0.179514
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:04",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "tennis racket",
+        "cell phone"
+      ],
+      "avg_confidence": 0.5467164715131124,
+      "processing_time": 0.113828
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:07",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "bus",
+        "stop sign"
+      ],
+      "avg_confidence": 0.655563568075498,
+      "processing_time": 0.102725
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:09",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.875657856464386,
+      "processing_time": 0.107218
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:12",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "airplane"
+      ],
+      "avg_confidence": 0.7329362809658051,
+      "processing_time": 0.135636
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:15",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "umbrella",
+        "potted plant"
+      ],
+      "avg_confidence": 0.6468346416950226,
+      "processing_time": 0.145606
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:18",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.9057775735855103,
+      "processing_time": 0.127654
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:26",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "fork",
+        "spoon",
+        "bowl",
+        "carrot",
+        "dining table"
+      ],
+      "avg_confidence": 0.43008996458614573,
+      "processing_time": 0.139624
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:29",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "car",
+        "kite"
+      ],
+      "avg_confidence": 0.754659853875637,
+      "processing_time": 0.14452
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:32",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.6158304413159689,
+      "processing_time": 0.126656
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:34",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "bottle",
+        "cup",
+        "knife",
+        "pizza",
+        "chair",
+        "dining table",
+        "cell phone"
+      ],
+      "avg_confidence": 0.48683565049558075,
+      "processing_time": 0.179612
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:37",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "chair",
+        "couch",
+        "bed",
+        "laptop",
+        "book"
+      ],
+      "avg_confidence": 0.399815844638007,
+      "processing_time": 0.117368
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:40",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "chair"
+      ],
+      "avg_confidence": 0.7064247727394104,
+      "processing_time": 0.116683
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:44",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "bed",
+        "remote"
+      ],
+      "avg_confidence": 0.5155757516622543,
+      "processing_time": 0.123665
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:47",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "laptop",
+        "keyboard"
+      ],
+      "avg_confidence": 0.6705699115991592,
+      "processing_time": 0.124663
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:50",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "cat",
+        "dog",
+        "sheep"
+      ],
+      "avg_confidence": 0.49474154114723207,
+      "processing_time": 0.132642
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:53",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "bear"
+      ],
+      "avg_confidence": 0.6116025447845459,
+      "processing_time": 0.126604
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:46:59",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "dining table",
+        "laptop",
+        "remote"
+      ],
+      "avg_confidence": 0.6223843917250633,
+      "processing_time": 0.122667
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:02",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "motorcycle"
+      ],
+      "avg_confidence": 0.6882883409659067,
+      "processing_time": 0.137628
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:04",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "motorcycle"
+      ],
+      "avg_confidence": 0.38821227351824444,
+      "processing_time": 0.125517
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:07",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "bowl",
+        "dining table"
+      ],
+      "avg_confidence": 0.6667598187923431,
+      "processing_time": 0.137853
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:10",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "cat",
+        "dog",
+        "bowl",
+        "chair",
+        "potted plant"
+      ],
+      "avg_confidence": 0.48722921684384346,
+      "processing_time": 0.135634
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:12",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "umbrella",
+        "kite"
+      ],
+      "avg_confidence": 0.6682066544890404,
+      "processing_time": 0.147203
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:15",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.5199864208698273,
+      "processing_time": 0.131643
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:19",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "bench",
+        "bottle",
+        "cup",
+        "spoon",
+        "bowl",
+        "chair",
+        "dining table"
+      ],
+      "avg_confidence": 0.582558027903239,
+      "processing_time": 0.141617
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:23",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "cell phone"
+      ],
+      "avg_confidence": 0.526244267821312,
+      "processing_time": 0.130647
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:27",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "backpack",
+        "suitcase",
+        "chair",
+        "dining table"
+      ],
+      "avg_confidence": 0.43663604963909497,
+      "processing_time": 0.130647
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:33",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "motorcycle"
+      ],
+      "avg_confidence": 0.38821227351824444,
+      "processing_time": 0.118679
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:43",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "motorcycle"
+      ],
+      "avg_confidence": 0.4834790199995041,
+      "processing_time": 0.126012
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:51",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "spoon",
+        "bowl",
+        "dining table"
+      ],
+      "avg_confidence": 0.6185715695222219,
+      "processing_time": 0.124663
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:54",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "bottle",
+        "cup",
+        "banana"
+      ],
+      "avg_confidence": 0.5240099926789602,
+      "processing_time": 0.126656
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:47:59",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "bottle",
+        "cup",
+        "refrigerator"
+      ],
+      "avg_confidence": 0.36174193024635315,
+      "processing_time": 0.124664
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:02",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "sheep",
+        "handbag",
+        "kite",
+        "bowl"
+      ],
+      "avg_confidence": 0.434717383235693,
+      "processing_time": 0.132657
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:08",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "handbag",
+        "kite"
+      ],
+      "avg_confidence": 0.6185065656900406,
+      "processing_time": 0.129649
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:12",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "sheep",
+        "umbrella"
+      ],
+      "avg_confidence": 0.4899572928746541,
+      "processing_time": 0.127633
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:16",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "umbrella"
+      ],
+      "avg_confidence": 0.5239641964435577,
+      "processing_time": 0.14062
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:19",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "sheep",
+        "umbrella"
+      ],
+      "avg_confidence": 0.44978731870651245,
+      "processing_time": 0.133707
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:24",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "motorcycle"
+      ],
+      "avg_confidence": 0.4785747911248888,
+      "processing_time": 0.119677
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:28",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person"
+      ],
+      "avg_confidence": 0.8751574754714966,
+      "processing_time": 0.139622
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:39",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "bench",
+        "potted plant"
+      ],
+      "avg_confidence": 0.548350378870964,
+      "processing_time": 0.13663
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:43",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "bench",
+        "umbrella",
+        "handbag"
+      ],
+      "avg_confidence": 0.5176389705051075,
+      "processing_time": 0.134637
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:47",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "car",
+        "motorcycle"
+      ],
+      "avg_confidence": 0.6038634002208709,
+      "processing_time": 0.145606
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:54",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "cup"
+      ],
+      "avg_confidence": 0.6558065116405487,
+      "processing_time": 0.098733
+    }
+  },
+  {
+    "timestamp": "2025-03-14 04:48:57",
+    "task": "object_detection",
+    "data": {
+      "objects": [
+        "person",
+        "cup",
+        "dining table"
+      ],
+      "avg_confidence": 0.5529120614131292,
+      "processing_time": 0.12167
+    }
+  }
+]

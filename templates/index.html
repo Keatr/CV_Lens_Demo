@@ -5,21 +5,31 @@
     <link rel="stylesheet" href="/static/css/style.css">
 </head>
 <body>
-    <h1>Upload Ảnh để Phân tích</h1>
-    <form id="uploadForm" enctype="multipart/form-data">
-        <input type="file" name="file" accept="image/*" required>
-        <select name="task">
-            <option value="object_detection">Nhận diện vật thể</option>
-            <option value="face_analysis">Phân tích khuôn mặt</option>
-        </select>
-        <button type="submit">Xử lý</button>
-    </form>
-    
-    
-    <img id="preview" src="#" alt="Preview" style="display: none; max-width: 500px;">
-    
-    
-    <div id="result"></div>
+    <div class="container">
+        <!-- Bên trái: Form + Ảnh gốc -->
+        <div class="input-section">
+            <h1>Upload Ảnh để Phân tích</h1>
+            <form id="uploadForm" enctype="multipart/form-data">
+                <input type="file" name="file" accept="image/*" required>
+                <select name="task">
+                    <option value="object_detection">Nhận diện vật thể</option>
+                    <option value="face_analysis">Phân tích khuôn mặt</option>
+                </select>
+                <button type="submit">Xử lý</button>
+            </form>
+            <!-- Khung giữ ảnh gốc cố định -->
+            <div class="preview-container">
+                <h3>Ảnh Gốc</h3>
+                <img id="preview" src="#" alt="Preview">
+            </div>
+        </div>
+
+        <!-- Bên phải: Kết quả -->
+        <div class="result-section">
+            <h3>Kết Quả Phân Tích</h3>
+            <div id="result"></div>
+        </div>
+    </div>
 
     <script src="/static/js/script.js"></script>
 </body>
