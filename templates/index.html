@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV Lens Demo</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <h1>Upload Ảnh để Phân tích</h1>
+    <form id="uploadForm" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/*" required>
+        <select name="task">
+            <option value="object_detection">Nhận diện vật thể</option>
+            <option value="face_analysis">Phân tích khuôn mặt</option>
+        </select>
+        <button type="submit">Xử lý</button>
+    </form>
+    
+    <!-- Phần preview ảnh -->
+    <img id="preview" src="#" alt="Preview" style="display: none; max-width: 500px;">
+    
+    <!-- Phần hiển thị kết quả -->
+    <div id="result"></div>
+
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
