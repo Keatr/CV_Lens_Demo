@@ -18,11 +18,11 @@ document.getElementById('uploadForm').addEventListener('submit', async (e) => {
   loader.style.display = 'block';
 
   try {
-      const response = await fetch('http://localhost:3000/upload', { // Thêm URL đầy đủ
+      const response = await fetch('http://localhost:3000/upload', { 
           method: 'POST',
           body: formData,
           headers: {
-              // 'Content-Type': 'multipart/form-data' // KHÔNG thêm header này, browser sẽ tự set
+              // 
           }
       });
 
